@@ -7,5 +7,5 @@ Node.js
 index.js - entry point
 
 ## Run
-
+npm init <br />
 node index.js
